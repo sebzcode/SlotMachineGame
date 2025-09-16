@@ -66,4 +66,4 @@ This project simulates depositing money, betting on lines, spinning reels, and c
 
 ## 🧑‍💻Author 
 
-Built by sebz  
+Built by sebs  
